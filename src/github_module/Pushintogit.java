@@ -8,12 +8,6 @@ public class Pushintogit {
 	{
 		System.out.println("Hi storing into git");
 	}
-	@Test
-	public void regression()
-	{
-		int i=0;
-		int j=10/i;
-		System.out.println(j);
-	}
-
 }
+
+
